@@ -8,9 +8,12 @@ If you want to contribute, feel free to send me a message or make a pull request
 
 ## Table of Contents
 
+1. [Definitions, degrees of openness and terminologies](#definitions-degrees-of-openness-and-terminologies)
+2. [Costs, risks and benefits](#costs-risks-and-benefits)
+3. [AI systems described as 'Open' or 'Open Source'](#ai-systems-described-as-open-or-open-source)
 
 
-## Definitions, degrees of openness and terminologies 
+## Definitions, degrees of openness and terminologies
 
 - **Deep Dive: AI** <br>
 *Open Source Initiative* <br>
