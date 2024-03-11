@@ -87,7 +87,7 @@ Nature Computational Science, 2023, [[Paper]](https://www.nature.com/articles/s4
 
 ## AI systems described as 'Open' or 'Open Source'
 
-- **Llama 2 (Meta)** [[Paper]](https://arxiv.org/abs/2307.09288) [[Website]](https://llama.meta.com/) [[Inference Code]](https://github.com/facebookresearch/llama)
+- **Llama 2 (Meta)** [[Paper]](https://arxiv.org/abs/2307.09288) [[Download weights]](https://llama.meta.com/llama-downloads) [[Inference Code]](https://github.com/facebookresearch/llama)
   - **Meta’s LLaMa 2 license is not Open Source**, *Open Source Initiative*, July 20, 2023, [[Blog Post]](https://opensource.org/blog/metas-llama-2-license-is-not-open-source)
 - **BLOOM (BigScience)** [[Paper]](https://arxiv.org/abs/2211.05100) [[Model Card]](https://huggingface.co/bigscience/bloom)
 - **Alpaca (Stanford)** [[Website]](https://crfm.stanford.edu/2023/03/13/alpaca.html) [[Inference Code]](https://github.com/tatsu-lab/stanford_alpaca)
