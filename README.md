@@ -2,7 +2,7 @@
 
 **Openness** in the context of AI encompasses all principles or philosophies surrounding the ability and right to freely use, share, modify, and study the AI system or its components (weights, code, dataset, research paper, development framework, etc)  without restriction of purpose and without discrimination against individuals or groups, similar to other philosophies of openness such as Open Source or Open Access. 
 
-This repo collects all papers or other relevant content for research on openness in the field of AI and AI ethics. Given that the research on openness in AI is still relatively recent and lacks scientific literature, this repo also incorporates blog posts from reliable sources (such as university websites, recognized organizations in the field, etc).
+This repo collects relevant papers or other content for research on openness in the field of AI and AI ethics. Given that the research on openness in AI is still relatively recent and lacks scientific literature, this repo also incorporates blog posts from reliable sources (such as university websites, recognized organizations in the field, etc).
 
 If you want to contribute, feel free to send me a message or make a pull request!
 
