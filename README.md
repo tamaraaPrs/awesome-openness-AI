@@ -87,13 +87,6 @@ Nature Computational Science, 2023, [[Paper]](https://www.nature.com/articles/s4
 
 ## AI systems described as 'Open' or 'Open Source'
 
-### LLaMA 2
-
-- **Llama 2: Open Foundation and Fine-Tuned Chat Models** <br>
-*H. Touvron et al.* <br>
-arXiv, Jul. 19, 2023, [[Paper]](https://arxiv.org/abs/2307.09288) [[Website]](https://llama.meta.com/) [[Github]](https://github.com/facebookresearch/llama)
-
-- **Meta’s LLaMa 2 license is not Open Source** <br>
-*Open Source Initiative* <br>
-July 20, 2023, [[Blog Post]](https://opensource.org/blog/metas-llama-2-license-is-not-open-source)
+- **Llama 2** [[Paper]](https://arxiv.org/abs/2307.09288) [[Website]](https://llama.meta.com/) [[Github]](https://github.com/facebookresearch/llama)
+  - **Meta’s LLaMa 2 license is not Open Source**, *Open Source Initiative*, July 20, 2023, [[Blog Post]](https://opensource.org/blog/metas-llama-2-license-is-not-open-source)
 
