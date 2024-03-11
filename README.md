@@ -1,4 +1,4 @@
-# awesome-openness-AI
+# Awesome Openness in AI
 
 **Openness** in the context of AI encompasses all principles or philosophies surrounding the ability and right to freely use, share, modify, and study the AI system or its components (weights, code, dataset, research paper, development framework, etc)  without restriction of purpose and without discrimination against individuals or groups, similar to other philosophies of openness such as Open Source or Open Access. 
 
