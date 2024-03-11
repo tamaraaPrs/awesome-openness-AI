@@ -91,4 +91,4 @@ Nature Computational Science, 2023, [[Paper]](https://www.nature.com/articles/s4
   - **Meta’s LLaMa 2 license is not Open Source**, *Open Source Initiative*, July 20, 2023, [[Blog Post]](https://opensource.org/blog/metas-llama-2-license-is-not-open-source)
 - **BLOOM and BLOOMZ (BigScience)** [[Paper]](https://arxiv.org/abs/2211.05100) [[Model Card]](https://huggingface.co/bigscience/bloomz) [[Github]](https://github.com/bigscience-workshop/xmtf)
 - **Alpaca (Stanford)** [[Website]](https://crfm.stanford.edu/2023/03/13/alpaca.html) [[Model Card]](https://github.com/tatsu-lab/stanford_alpaca/blob/main/model_card.md) [[Github]](https://github.com/tatsu-lab/stanford_alpaca)
-
+- **Mistral** [[Website]](https://mistral.ai/) [[Dowload weights]](https://docs.mistral.ai/models/#downloading)
